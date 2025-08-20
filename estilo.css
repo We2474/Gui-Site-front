@@ -58,7 +58,7 @@ nav .menu li a:hover {
     padding: 15px;
     width: 220px;
     box-shadow: 0px 2px 8px black(0,0,0,0.1);
-    transition; transform: 0.2s;
+    transition: transform: 0.2s;
 }
 
 /* Efeito ao passar o mouse */
@@ -87,4 +87,5 @@ nav .menu li a:hover {
 .card button:hover {
     background-color: #e68900;
 }
+
 
